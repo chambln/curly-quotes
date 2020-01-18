@@ -1,6 +1,6 @@
 * Curly-quotes
 
-Curly-quotes is a simple utility that converts 'straight' "quotes" to
+Curly-quotes is a simple utility that converts \'straight\' \"quotes\" to
 typographically pleasing ‘curly’ “quotes”.
 
 ** Installation
