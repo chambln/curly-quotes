@@ -22,6 +22,9 @@ $ cat example
 "It'll never work," she said.
 
 What's this 'emergency balloon' for?
+#+END_SRC
+
+#+BEGIN_SRC
 $ curly-quotes < example
 “It’ll never work,” she said.
 
