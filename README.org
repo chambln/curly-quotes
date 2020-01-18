@@ -3,6 +3,15 @@
 Curly-quotes is a simple utility that converts 'straight' "quotes" to
 typographically pleasing ‘curly’ “quotes”.
 
+** Installation
+
+You will need GHC to compile this.
+
+#+BEGIN_SRC sh
+make
+sudo make install
+#+END_SRC
+
 ** Usage
 
 Text is read from standard input, and the same text is written to
