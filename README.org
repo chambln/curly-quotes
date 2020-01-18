@@ -1,7 +1,7 @@
 * Curly-quotes
 
 Curly-quotes is a simple utility that converts 'straight' "quotes" to
-‘curly’ “quotes”.
+typographically pleasing ‘curly’ “quotes”.
 
 ** Usage
 
