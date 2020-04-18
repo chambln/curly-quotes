@@ -7,6 +7,3 @@ INSTALL = install
 install: $(PROGRAM)
 	$(INSTALL) -d $(BIN)
 	$(INSTALL) -m 0755 $(PROGRAM) $(BIN)
-
-clean:
-	rm -fv $(PROGRAM) $(PROGRAM).hi $(PROGRAM).o
