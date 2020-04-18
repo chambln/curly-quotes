@@ -5,17 +5,15 @@ typographically pleasing ‘curly’ “quotes”.
 
 ** Installation
 
-You will need GHC to compile this.
-
 #+BEGIN_SRC sh
-make
 sudo make install
 #+END_SRC
 
 ** Usage
 
-Text is read from standard input, and the same text is written to
-standard output, but with straight quotes converted to curly quotes.
+Text is read from a filename argument or from standard input, and the
+same text is written to standard output, but with straight quotes
+converted to curly quotes.
 
 #+BEGIN_SRC
 $ cat example
