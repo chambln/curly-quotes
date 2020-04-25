@@ -45,5 +45,5 @@ quote pair:
   - Titled '99 Problems' → Titled ’99 Problems’
 
 The program is not a perfect grammarian; fortunately its guesswork can
-be overriden by manually curling the quotes in the input—those pass
-through untouched.
+be overruled by manually curling the quotes in the input—those pass
+through unaffected.
